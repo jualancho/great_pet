@@ -189,20 +189,28 @@ var_dump($_SESSION["pagina"]);
 
                         <div class="contactos_refu">
                             <div class="contenedor_contactos_refuguios">
-
+                                <a href="https://wa.me/541162444423">
                                 <div class="contactos_refuguios_mail_num">
-                                    <span class="material-icons-outlined icons_telefono_mail">
-                                        call
-                                    </span>
-                                    <p class="email_num_ref roboto"><u>+54 9 11 1122 4322</u></p>
+                                    
+                                    <div class="logo_whastapp">
+                                        <img src="../img/whatsapp-fill.svg" width=40 heigth=40>
+                                    </div>
+                                    
+                                    <p class="roboto enviar_mensaje">Enviar mensaje</p>
                                 </div>
-                                <div class="contactos_refuguios_mail_num">
-                                    <span class="material-icons-outlined icons_telefono_mail">
-                                        email
-                                    </span>
-                                    <p class="email_num_ref roboto"><u>pelopets5220@gmail.com</u></p>
-                                </div>
+                                </a>
 
+                                <a href="https://maps.app.goo.gl/LmkxN1C24Lb7V1hu7">
+                                    <div class="contactos_refuguios_mail_num">
+                                        
+                                        <div class="icono_ubicacion roboto">
+                                            <img src="../img/logo_maps.png" width=25 heigth=25>
+                                        </div>
+                                        
+                                        <p class="ubicacion roboto">Ubicación</p>
+                                    </div>
+                                    </a>
+                            
                             </div>
                         </div>
 
@@ -246,18 +254,26 @@ var_dump($_SESSION["pagina"]);
                         <div class="contactos_refu">
                             <div class="contenedor_contactos_refuguios">
 
-                                <div class="contactos_refuguios_mail_num">
-                                    <span class="material-icons-outlined icons_telefono_mail">
-                                        call
-                                    </span>
-                                    <p class="email_num_ref roboto"><u>+54 9 11 8293 3392</u></p>
-                                </div>
-                                <div class="contactos_refuguios_mail_num">
-                                    <span class="material-icons-outlined icons_telefono_mail">
-                                        email
-                                    </span>
-                                    <p class="email_num_ref roboto"><u>solomascotas01@gmail.com</u></p>
-                                </div>
+                                <a href="https://wa.me/541162444423">
+                                    <div class="contactos_refuguios_mail_num">
+                                        
+                                        <div class="logo_whastapp">
+                                            <img src="../img/whatsapp-fill.svg" width=40 heigth=40>
+                                        </div>
+                                        
+                                        <p class="roboto enviar_mensaje">Enviar mensaje</p>
+                                    </div>
+                                    </a>
+                                    <a href="https://maps.app.goo.gl/LmkxN1C24Lb7V1hu7">
+                                        <div class="contactos_refuguios_mail_num">
+                                            
+                                            <div class="icono_ubicacion roboto">
+                                                <img src="../img/logo_maps.png" width=25 heigth=25>
+                                            </div>
+                                            
+                                            <p class="ubicacion roboto">Ubicación</p>
+                                        </div>
+                                        </a>
 
                             </div>
                         </div>
@@ -302,18 +318,26 @@ var_dump($_SESSION["pagina"]);
                         <div class="contactos_refu">
                             <div class="contenedor_contactos_refuguios">
 
-                                <div class="contactos_refuguios_mail_num">
-                                    <span class="material-icons-outlined icons_telefono_mail">
-                                        call
-                                    </span>
-                                    <p class="email_num_ref roboto"><u>+54 9 11 1482 2735</u></p>
-                                </div>
-                                <div class="contactos_refuguios_mail_num">
-                                    <span class="material-icons-outlined icons_telefono_mail">
-                                        email
-                                    </span>
-                                    <p class="email_num_ref roboto"><u>moñosyhuesos32@gmail.com</u></p>
-                                </div>
+                                <a href="https://wa.me/541162444423">
+                                    <div class="contactos_refuguios_mail_num">
+                                        
+                                        <div class="logo_whastapp">
+                                            <img src="../img/whatsapp-fill.svg" width=40 heigth=40>
+                                        </div>
+                                        
+                                        <p class="roboto enviar_mensaje">Enviar mensaje</p>
+                                    </div>
+                                    </a>
+                                    <a href="https://maps.app.goo.gl/LmkxN1C24Lb7V1hu7">
+                                        <div class="contactos_refuguios_mail_num">
+                                            
+                                            <div class="icono_ubicacion roboto">
+                                                <img src="../img/logo_maps.png" width=25 heigth=25>
+                                            </div>
+                                            
+                                            <p class="ubicacion roboto">Ubicación</p>
+                                        </div>
+                                        </a>
 
                             </div>
                         </div>
