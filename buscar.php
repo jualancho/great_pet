@@ -14,6 +14,7 @@
         $especie=$row['especie'];
         echo"Nombre:$nombre, Edad:$edad, Especie:$especie<p>";
     }
+    
 // Cerrar la conexión
 $conex->close();
 ?>
